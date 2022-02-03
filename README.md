@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi👋, I'm Sajith Jayaram👨‍💻</h2>
-<h4 align="center">Full stack developer</h4>
+<h4 align="center">Full Stack Developer</h4>
 <p align="left"><i>I like experimenting with new technologies and building small projects. Here's a list of things that I currently keep myself busy with:</i></p>
 
 - <i>trying to improve my coding style by practicing</i>
@@ -15,8 +15,7 @@
 
 
 <details>
-  <summary><i>Some other facts about me</i></summary>
-  -<i>I love watching movies and documentaries</i>
+  <summary><i>Github Data</i></summary>
   <br><br>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsajith&show_icons=true&locale=en&layout=compact" alt="iamsajith" /></p>
 
