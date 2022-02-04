@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi👋, I'm Sajith Jayaram👨‍💻</h2>
+<h2 align="center">Hi👋, I'm Sajith Jayaram</h2>
 <h4 align="center">Full Stack Developer</h4>
 <p align="left"><i>I like experimenting with new technologies and building small projects. Here's a list of things that I currently keep myself busy with:</i></p>
 
