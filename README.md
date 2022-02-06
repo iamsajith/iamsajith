@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi👋, I'm Sajith Jayaram</h2>
-<h4 align="center">Full Stack Developer</h4>
+<h4 align="center">Developer</h4>
 <p align="center">
   <img width="300" height="200" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
 </p><br>
