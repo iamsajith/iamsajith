@@ -1,4 +1,4 @@
-
+<body style=background-color:"palegreen">
 <h2 align="center">Hi👋, I'm Sajith Jayaram</h2>
 <p align="center"><strong>Developer</strong></p>
 <p align="center">
@@ -40,3 +40,4 @@
 <h1 align="center"></h1>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamsajith&label=Profile%20views&color=0e75b6&style=flat" alt="iamsajith" /> </p>
+</body>
