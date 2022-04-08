@@ -21,7 +21,7 @@
 <details>
   <summary><em>Github Data</em></summary>
   <br>
-  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsajith&show_icons=true&locale=en&layout=compact" alt="iamsajith" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsajith&show_icons=true&locale=en" alt="iamsajith" /></p>
 
