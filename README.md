@@ -1,5 +1,5 @@
 <h2 align="center">Hi👋, I'm Sajith Jayaram</h2>
-<p align="center"><strong>Developer</strong></p>
+<p align="center"><strong>Developer/Engineer</strong></p>
 <p align="center">
   <img width="300" height="200" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
 </p><br>
