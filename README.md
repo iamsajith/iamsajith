@@ -6,7 +6,7 @@
 <p align="left"><em>I like experimenting with new technologies and building small projects. Here's a list of things that I currently keep myself busy with:</em></p>
 
 - <em>trying to improve my coding style by practicing</em>
-- <em>learning DSA and new tech stacks for web developement</em>
+- <em>learning DSA and new tech stacks</em>
 - <em>reading tech magazines, blogs</em>
 - <em>getting myself into web 3.0 and metaverse, following related contents in my spare time.</em>
 
