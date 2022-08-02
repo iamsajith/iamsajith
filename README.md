@@ -36,6 +36,4 @@
 <a href="https://instagram.com/sajith__jayaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajith__jayaram" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/sajithjayaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sajithjayaram" height="30" width="40" /></a>
 </p>
-<h1 align="center"></h1>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamsajith&label=Profile%20views&color=0e75b6&style=flat" alt="iamsajith" /> </p>
+
