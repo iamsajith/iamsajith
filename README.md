@@ -3,7 +3,7 @@
 <p align="center">
   <img width="300" height="200" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
 </p><br>
-<p align="left"><em>I like experimenting with new technologies and building small projects. Here's a list of things that I currently keep myself busy with:</em></p>
+<p align="left"><em>I like experimenting with new technologies and working on real-world projects. Here's a list of things that I currently keep myself busy with:</em></p>
 
 - <em>trying to improve my coding style by practicing</em>
 - <em>learning DSA and new tech stacks</em>
