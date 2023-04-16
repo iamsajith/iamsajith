@@ -8,7 +8,7 @@
 - <em>trying to improve my coding style by practicing</em>
 - <em>learning DSA and new tech stacks</em>
 - <em>reading tech magazines, blogs</em>
-- <em>getting myself into web 3.0 and metaverse, following related contents in my spare time.</em>
+- <em>getting myself into AI and ML, following related contents in my spare time.</em>
 
 <details>
  <summary><em>Languages and Tools</em></summary>
